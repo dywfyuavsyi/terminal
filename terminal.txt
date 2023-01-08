@@ -1,0 +1,13 @@
+mkdir making folder or directory
+cd.. getting out of something (folder)
+ls list
+touch making files
+echo 메아리
+open 열기
+cat display the contents inside the file
+rm remove file
+rm -rf removing folder
+rm -rf * removing all the files and folders
+pwd showing where am I
+rm * remove all the files
+vim = making note
